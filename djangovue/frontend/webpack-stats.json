@@ -1,0 +1,16 @@
+{
+  "status": "done",
+  "assets": {
+    "main-79cfe2b55677275ea2c9.js": {
+      "name": "main-79cfe2b55677275ea2c9.js",
+      "path": "/Users/home/Documents/djangovue-test/djangovue/frontend/assets/webpack_bundles/main-79cfe2b55677275ea2c9.js",
+      "publicPath": "/static/webpack_bundles/main-79cfe2b55677275ea2c9.js"
+    }
+  },
+  "chunks": {
+    "main": [
+      "main-79cfe2b55677275ea2c9.js"
+    ]
+  },
+  "publicPath": "/static/webpack_bundles/"
+}
