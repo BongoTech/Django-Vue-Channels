@@ -1,15 +1,15 @@
 {
   "status": "done",
   "assets": {
-    "main-79cfe2b55677275ea2c9.js": {
-      "name": "main-79cfe2b55677275ea2c9.js",
-      "path": "/Users/home/Documents/djangovue-test/djangovue/frontend/assets/webpack_bundles/main-79cfe2b55677275ea2c9.js",
-      "publicPath": "/static/webpack_bundles/main-79cfe2b55677275ea2c9.js"
+    "main-2d514ef0f106fa382b94.js": {
+      "name": "main-2d514ef0f106fa382b94.js",
+      "path": "/Users/home/Documents/djangovuechannels-test/Django-Vue-Channels/djangovue/frontend/assets/webpack_bundles/main-2d514ef0f106fa382b94.js",
+      "publicPath": "/static/webpack_bundles/main-2d514ef0f106fa382b94.js"
     }
   },
   "chunks": {
     "main": [
-      "main-79cfe2b55677275ea2c9.js"
+      "main-2d514ef0f106fa382b94.js"
     ]
   },
   "publicPath": "/static/webpack_bundles/"
