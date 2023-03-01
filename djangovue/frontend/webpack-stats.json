@@ -1,15 +1,23 @@
 {
   "status": "done",
   "assets": {
-    "main-2d514ef0f106fa382b94.js": {
-      "name": "main-2d514ef0f106fa382b94.js",
-      "path": "/Users/home/Documents/djangovuechannels-test/Django-Vue-Channels/djangovue/frontend/assets/webpack_bundles/main-2d514ef0f106fa382b94.js",
-      "publicPath": "/static/webpack_bundles/main-2d514ef0f106fa382b94.js"
+    "main-0287579847f232be3f57.js": {
+      "name": "main-0287579847f232be3f57.js",
+      "path": "/Users/home/Documents/djangovuechannels-test/Django-Vue-Channels/djangovue/frontend/assets/webpack_bundles/main-0287579847f232be3f57.js",
+      "publicPath": "/static/webpack_bundles/main-0287579847f232be3f57.js"
+    },
+    "room-0287579847f232be3f57.js": {
+      "name": "room-0287579847f232be3f57.js",
+      "path": "/Users/home/Documents/djangovuechannels-test/Django-Vue-Channels/djangovue/frontend/assets/webpack_bundles/room-0287579847f232be3f57.js",
+      "publicPath": "/static/webpack_bundles/room-0287579847f232be3f57.js"
     }
   },
   "chunks": {
     "main": [
-      "main-2d514ef0f106fa382b94.js"
+      "main-0287579847f232be3f57.js"
+    ],
+    "room": [
+      "room-0287579847f232be3f57.js"
     ]
   },
   "publicPath": "/static/webpack_bundles/"

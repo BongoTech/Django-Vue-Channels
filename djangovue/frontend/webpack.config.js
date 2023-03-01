@@ -38,7 +38,10 @@ module.exports = {
       }
     ]
   },
-  entry: './src/main.js',
+  entry: {
+    main: './src/main.js',
+    room: './src/modules/room.js'
+  },
   output: {
     path: path.resolve('./assets/webpack_bundles'),
     publicPath: '/static/webpack_bundles/',
